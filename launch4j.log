@@ -1,0 +1,100 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\giorg\IdeaProjects\WeatherApp\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\giorg\IdeaProjects\WeatherApp\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\giorg\IdeaProjects\WeatherApp\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe"
+Args length:	60/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\giorg\IdeaProjects\WeatherApp\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\MAVEN_HOME\apache-maven-3.9.6;C:\Users\giorg\AppData\Local\Microsoft\WindowsApps;C:\Users\giorg\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\giorg\AppData\Roaming\npm;C:\Users\giorg\AppData\Local\Programs\Git\cmd;C:\Program Files\JetBrains\IntelliJ IDEA 2023.2.5\bin;;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\giorg\IdeaProjects\WeatherApp\WeatherApp.exe"
+Args length:	60/32768 chars
+Exit code:	0
